@@ -4,3 +4,6 @@
 [submodule "phase-3-type-checking"]
 	path = phase-3-type-checking
 	url = https://github.com/matahho/Compiler_phase3.git
+[submodule "phase-4-code-generation"]
+	path = phase-4-code-generation
+	url = https://github.com/matahho/compiler_CA4.git
