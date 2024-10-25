@@ -1,0 +1,3 @@
+[submodule "phase-1-2-lexer-parser"]
+	path = phase-1-2-lexer-parser
+	url = https://github.com/matahho/Compiler_CA.git
